@@ -1,3 +1,5 @@
+[이예지] Mon May 19 23:32:21 2025 +0900 feat : analysis class diagram 수정 a87eed5
+[이예지] Mon May 19 23:07:44 2025 +0900 feat : log_output.txt 생성 de98196
 [이예지] Mon May 19 22:58:26 2025 +0900 feat : requirement list 수정 6dc8002
 [이예지] Mon May 19 22:50:01 2025 +0900 feat : analysis class diagram 생성 04f3f5a
 [이예지] Mon May 19 22:49:29 2025 +0900 feat : commnuication diagram 생성 e95f3e9
