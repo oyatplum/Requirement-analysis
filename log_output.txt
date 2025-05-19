@@ -1,0 +1,7 @@
+[이예지] Mon May 19 22:58:26 2025 +0900 feat : requirement list 수정 6dc8002
+[이예지] Mon May 19 22:50:01 2025 +0900 feat : analysis class diagram 생성 04f3f5a
+[이예지] Mon May 19 22:49:29 2025 +0900 feat : commnuication diagram 생성 e95f3e9
+[이예지] Mon May 19 22:48:46 2025 +0900 feat : use case description 생성 48d7a5c
+[이예지] Mon May 19 22:48:21 2025 +0900 feat : use case diagram 생성 d12d8ff
+[이예지] Mon May 19 22:47:20 2025 +0900 feat : requirement list 생성 f661af0
+[oyatplum] Mon May 19 22:35:46 2025 +0900 Initial commit 12e0743
