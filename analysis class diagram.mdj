@@ -3761,7 +3761,7 @@
 										"$ref": "AAAAAAGW6JYP+/X9d78="
 									},
 									"edgePosition": 1,
-									"text": "+rent"
+									"text": "rent"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -3979,7 +3979,6 @@
 							},
 							"lineStyle": 1,
 							"points": "305:189;439:190",
-							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGW6JYP+/X+zi0="
 							},
@@ -4143,7 +4142,6 @@
 								"reference": {
 									"$ref": "AAAAAAGW14EXCUARn6c="
 								},
-								"navigable": "navigable",
 								"multiplicity": "0..*"
 							}
 						}
